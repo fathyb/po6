@@ -1,0 +1,13 @@
+[package]
+name = "po6"
+version = "0.1.0"
+edition = "2021"
+
+description = "A C POSIX library in Rust"
+license = "MIT"
+
+[workspace]
+resolver = "2"
+members = [
+    "examples/dav1d",
+]
