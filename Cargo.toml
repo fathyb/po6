@@ -5,6 +5,7 @@ edition = "2021"
 
 description = "A C POSIX library in Rust"
 license = "MIT"
+repository = "https://github.com/fathyb/po6"
 
 [workspace]
 resolver = "2"
